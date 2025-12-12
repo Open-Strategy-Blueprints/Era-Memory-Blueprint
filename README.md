@@ -1,3 +1,5 @@
+![Era Memory](https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+*Photo by [John Doe](https://unsplash.com) on Unsplash - Symbolizing memory and preservation.*
 # Era Memory: An Open-Source Strategic Blueprint
 
 > **Turning decaying cultural memories into enduring strategic assets.**
